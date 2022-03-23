@@ -1,5 +1,5 @@
 ## Hey there 👋, I'm luckone!
-## blog： http://8.140.173.194:8090/
+## blog： http://101.42.223.86:8090/
 ## QQ： MTEzOTQ0ODU5Ng==
 
 ## wechat ：
